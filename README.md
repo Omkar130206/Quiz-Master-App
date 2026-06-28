@@ -36,9 +36,9 @@ Quiz-App/
 
 ## 💻 Getting Started
 
-1. Clone the repository:
+1. Clone/Download zip of the repository:
    ```bash
-   git clone https://github.com/Omkar130206/Quiz-Master-App.git
+   https://github.com/Omkar130206/Quiz-Master-App
    ```
 
 2. Open the project folder.
