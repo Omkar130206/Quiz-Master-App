@@ -45,9 +45,6 @@ Quiz-App/
 
 3. Run the project by opening `index.html` in your web browser.
 
-## 📸 Screenshots
-
-Add screenshots of your application here.
 
 ## 🌟 Future Improvements
 
