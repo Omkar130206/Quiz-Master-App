@@ -38,7 +38,7 @@ Quiz-App/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/Omkar130206/quiz-app.git
    ```
 
 2. Open the project folder.
