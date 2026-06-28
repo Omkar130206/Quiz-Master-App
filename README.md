@@ -13,8 +13,8 @@ A responsive and interactive Quiz App built using **HTML, CSS, and JavaScript**.
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## 📂 Project Structure
